@@ -1,4 +1,4 @@
-# Rock,Paper,Scissor, Lizard, Spock game 
+# Rock, Paper, Scissor, Lizard, Spock game 
 
 A classic game to settle out disputes or cure for extreme boredom. It is recommended that you do actually do not play this game via an API. Instead find a friend or go out an grab any stranger to play with. 
 
